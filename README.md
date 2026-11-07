@@ -1,4 +1,4 @@
-# eventify-io
+# Eventify
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,103 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-eventify-io is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://eventify.io/
+Eventify provides an all-in-one event management platform powered by AI agents, enabling in-person, virtual, and hybrid B2B events and conferences. It offers features such as registration, ticketing, event networking, attendee check‑in, badge printing, lead capture, mobile event app, event marketing tools, budgeting, speaker management, floor‑plan builder, agenda management, analytics, gamification, live polls, Q&A, community building, and AI‑driven insights, reducing costs and boosting sponsor attraction and attendee engagement.
+
+**Areas:** Event Management · AI · Software · Platform · Conference · Hybrid Events
+
+## Eventify on APIs.io
+
+Everything profiled for Eventify is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/eventify-io/](https://apis.io/providers/eventify-io/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Eventify MCP](https://apis.io/apis/eventify-io/eventify-mcp/) — Model Context Protocol (MCP) API for programmatic event management.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Eventify Io Authentication](https://apis.io/security/eventify-io/eventify-io-authentication/)
+- [Eventify Io Domain Security](https://apis.io/security/eventify-io/eventify-io-domain-security/)
+- [Eventify Io Vulnerability Disclosure](https://apis.io/security/eventify-io/eventify-io-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Eventify Io Scopes](https://apis.io/scopes/eventify-io/eventify-io-scopes/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://eventify.io/)
+- [Documentation](https://hub.eventify.io/docs/)
+- [Getting started](https://eventify.io/request-demo)
+- [API reference](https://hub.eventify.io/docs/)
+- [Pricing](https://eventify.io/pricing)
+- [Sign up](https://eventify.io/request-demo)
+- [Support](https://eventify.io/knowledge-base)
+- [Blog](https://eventify.io/blog)
+- [Terms of service](https://eventify.io/terms-of-use)
+- [Privacy policy](https://eventify.io/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 28.6** — thin · rubric 0.26.0 · scored 2026-11-07
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 45.2 |
+| Access clarity | 44.7 |
+
+**Agent readiness 24.7** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 32.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/eventify-io/](https://apis.io/providers/eventify-io/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Eventify: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/eventify-io/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
